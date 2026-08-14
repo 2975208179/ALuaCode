@@ -12,7 +12,7 @@ ALuaCode，基于ACS(Android‑Code‑Studio)打包构建，使用AndroidX、Goo
 #### ✨ 主要功能
 - Lua代码编辑器，语法高亮、代码提示
 - 代码实时运行预览，手机上直接调试
-- 新建/管理Lua项目文件
+- 新建、打开、管理Lua项目与资源文件
 - 一键打包生成独立APK安装包
 - 适配MD3日夜深色模式
 
@@ -28,3 +28,8 @@ ALuaCode，基于ACS(Android‑Code‑Studio)打包构建，使用AndroidX、Goo
 #### ⚠️ 注意
 - 打包生成APK需要手机开启文件读写权限
 - 适配Android 8.0及以上安卓设备
+
+- 
+## 📄 许可证
+MIT
+
