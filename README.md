@@ -1,13 +1,13 @@
-![](https://github.com/2975208179/ALuaCode/blob/main/file_00000000a9cc8211b3347d580a414513.png?raw=true)
+![](https://github.com/hanwuji-886/ALuaCode/blob/main/file_00000000a9cc8211b3347d580a414513.png?raw=true)
 
 
-# ALuaCode
+#ALuaCode
 
 #### 介绍
-ALuaCode，基于ACS(Android Code Studio)打包构建，使用AndroidX、Google官方组件库，安卓端Lua开发工具，支持Lua代码编写、运行，打包生成APK。
+AluaCode，基于ACS(Android Code Studio)打包构建，使用AndroidX、Google官方组件库，安卓端Lua开发工具，支持Lua代码编写、运行，打包生成APK。
 
 #### 📥 下载安装包
-👉前往 [Releases](https://github.com/2975208179/ALuaCode/releases) 下载最新版本APK。
+👉  前往[释放](https://github.com/2975208179/ALuaCode/releases) 下载最新版本APK。
 
 #### ✨ 主要功能
 - Lua代码编辑器，语法高亮、代码提示
@@ -23,7 +23,7 @@ ALuaCode，基于ACS(Android Code Studio)打包构建，使用AndroidX、Google�
 4. 调试完成，一键打包导出APK，可直接分享安装
 
 #### 软件架构
-基于ACS构建，AndroidX + Lua脚本引擎，纯安卓端本地开发，无需电脑。
+基于ACS构建，AndroidX+Lua脚本引擎，纯安卓端本地开发，无需电脑。
 
 #### ⚠️ 注意
 - 打包生成APK需要手机开启文件读写权限
