@@ -4,7 +4,7 @@
 # ALuaCode
 
 #### 介绍
-ALuaCode，基于ACS(Android‑Code‑Studio)打包构建，使用AndroidX、Google官方组件库，安卓端Lua开发工具，支持Lua代码编写、运行，打包生成APK。
+ALuaCode，基于ACS(Android Code Studio)打包构建，使用AndroidX、Google官方组件库，安卓端Lua开发工具，支持Lua代码编写、运行，打包生成APK。
 
 #### 📥 下载安装包
 👉前往 [Releases](https://github.com/2975208179/ALuaCode/releases) 下载最新版本APK。
@@ -12,7 +12,7 @@ ALuaCode，基于ACS(Android‑Code‑Studio)打包构建，使用AndroidX、Goo
 #### ✨ 主要功能
 - Lua代码编辑器，语法高亮、代码提示
 - 代码实时运行预览，手机上直接调试
-- 新建、打开、管理Lua项目与资源文件
+- 新建、打开、Lua项目与资源文件
 - 一键打包生成独立APK安装包
 - 适配MD3日夜深色模式
 
